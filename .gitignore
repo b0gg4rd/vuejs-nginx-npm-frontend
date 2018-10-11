@@ -1,0 +1,34 @@
+### Git ###
+*.orig
+
+### Pug ###
+*.html
+
+### Stylus ###
+*.css
+
+### NG CLI ###
+dist/
+dist-server/
+tmp/
+e2e/*.js
+e2e/*.map
+out-tsc/
+
+### Node ###
+node_modules/
+bower_components/
+package-lock.json
+
+### VSCode ###
+.vscode/
+
+### VIM ###
+*~
+*.swp
+*.swo
+
+### General ###
+*.log
+*.lock*
+*.DS_Store
